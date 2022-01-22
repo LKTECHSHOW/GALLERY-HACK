@@ -6,7 +6,7 @@
 
 >pkg install git
 
->git clone https://github.com/RazorKenway/GalleryHack.git
+>git clone https://github.com/LKTECHSHOW/GALLERY-HACK.git
 
 >cd GalleryHack
 
